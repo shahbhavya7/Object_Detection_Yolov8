@@ -1,0 +1,5 @@
+test-annotations-bbox.csv
+validation-annotations-bbox.csv
+oidv6-train-annotations-bbox.csv
+data
+$DOWNLOAD_FOLDER
