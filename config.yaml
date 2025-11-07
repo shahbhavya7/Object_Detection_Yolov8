@@ -1,0 +1,8 @@
+path: C:/Users/bhavy/OneDrive/Desktop/Languages/Computer_Vision/Object_Detection_Yolo_V8/data # dataset root dir
+train: images/train # train images (relative to 'path')
+val: images/validation # val images (relative to 'path')
+test: images/test # test images (relative to 'path')
+
+# Classes
+names:
+  0: alpaca
